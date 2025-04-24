@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: lightpink; 
+  background: lightpink;
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -9,6 +9,7 @@ body {
   align-items: center;
   height: 100vh;
 }
+
 .container {
   width: 75%;
   height: auto;
@@ -21,12 +22,15 @@ body {
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
   text-align: center;
 }
-.image-container{
+
+.image-container {
   width: 50%;
 }
-.signup-box{
+
+.signup-box {
   width: 50%;
 }
+
 .image-container {
   width: 400px;
   margin: 1rem;
@@ -59,9 +63,11 @@ body {
 .image-container img:nth-child(3) {
   animation-delay: 8s;
 }
+
 .image-container img:nth-child(4) {
   animation-delay: 12s;
 }
+
 .image-container img:nth-child(5) {
   animation-delay: 16s;
 }
@@ -70,15 +76,19 @@ body {
   0% {
     opacity: 0;
   }
+
   10% {
     opacity: 1;
   }
+
   30% {
     opacity: 1;
   }
+
   40% {
     opacity: 1;
   }
+
   100% {
     opacity: 0;
   }
@@ -99,6 +109,7 @@ a {
   text-decoration: none;
   color: rgb(174, 4, 32);
 }
+
 /* Input Boxes */
 .input-box {
   position: relative;
@@ -127,10 +138,12 @@ a {
 .btn {
   width: 50%;
   padding: 10px;
-  background: rgb(238, 94, 118); /* Teal */
+  background: rgb(238, 94, 118);
+  /* Teal */
   border: none;
   border-radius: 10px;
-  color: white; /* Dark text on button */
+  color: white;
+  /* Dark text on button */
   font-size: 16px;
   cursor: pointer;
 }
@@ -154,6 +167,7 @@ a {
   margin-bottom: 10px;
   color: white;
 }
+
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
@@ -169,15 +183,16 @@ a {
     width: 80%;
     max-width: 400px;
   }
-  
+
   .input-box input {
     width: 100%;
     margin-left: -2rem;
   }
 
-  .input-box img{
+  .input-box img {
     left: -30px;
   }
+
   .btn {
     width: 100%;
   }
@@ -201,23 +216,28 @@ a {
     padding: 15px;
     gap: 1rem;
   }
-  
+
   .input-box input {
     width: 65%;
   }
-  .image-container{
+
+  .image-container {
     margin: 1rem 0rem;
     width: 70%;
     height: 200px;
   }
+
   .image-container img {
-    animation-duration: 16s; /* Speed up the image transition for smaller screens */
+    animation-duration: 16s;
+    /* Speed up the image transition for smaller screens */
   }
-  .input-box input{
+
+  .input-box input {
     margin-left: -1.5rem;
     width: 85%;
   }
-  .input-box img{
+
+  .input-box img {
     left: -24px;
   }
 }

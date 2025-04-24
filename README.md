@@ -1,5 +1,6 @@
 # Expense Tracker
-Hosted Link: <p>https://ash-dot-coder.github.io/REMCTExpenseTracker/</p>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-palevioletred?style=for-the-badge)](https://ash-dot-coder.github.io/REMCTExpenseTracker/)
 
 This is an **Expense Tracker** web application built using HTML, CSS, and JavaScript. It allows users to create an account, log in, and track their expenses with categories such as Food, Transport, Entertainment, and more. Users can add, view, and manage their expenses. The application uses **localStorage** for data persistence.
 
@@ -34,7 +35,6 @@ Ensure you have a modern web browser such as **Google Chrome**, **Mozilla Firefo
 bash
 git clone [https://github.com/Ash-dot-coder/REMCTExpenseTracker.git]
 
-
 2. **Navigate into the project directory**:
 
 bash
@@ -51,18 +51,16 @@ cd expense-tracker
 
 ## Folder Structure
 
-
 expense-tracker/
 │
-├── index.html            # Login Page
-├── SignIn_form/          # Sign-Up page
-├── HomePage/             # Home Page after login
+├── index.html # Login Page
+├── SignIn_form/ # Sign-Up page
+├── HomePage/ # Home Page after login
 │
-├── Images/               # Folder for image assets
-├── style.css             # Styles for the pages
-├── script.js             # JavaScript for handling form logic and expense tracking
-└── README.md             # Project description
-
+├── Images/ # Folder for image assets
+├── style.css # Styles for the pages
+├── script.js # JavaScript for handling form logic and expense tracking
+└── README.md # Project description
 
 ## License
 
