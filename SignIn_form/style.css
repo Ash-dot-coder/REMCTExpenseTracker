@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
-  background: lightpink;
+  background: rgb(241, 176, 125);
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@ body {
   /* height: 80vh; */
   display: flex;
   gap: 2rem;
-  background: rgb(230, 129, 146);
+  background: rgb(246, 160, 120);
   border-radius: 20px;
   padding: 10px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
@@ -107,7 +107,7 @@ p {
 
 a {
   text-decoration: none;
-  color: rgb(174, 4, 32);
+  color: rgb(209, 93, 4);
 }
 
 /* Input Boxes */
@@ -121,7 +121,7 @@ a {
   padding: 10px 40px;
   border: none;
   border-radius: 10px;
-  background: white;
+  background: rgb(255, 255, 255);
   color: black;
   font-size: 14px;
 }
@@ -138,7 +138,7 @@ a {
 .btn {
   width: 50%;
   padding: 10px;
-  background: rgb(238, 94, 118);
+  background: rgb(245, 146, 84);
   /* Teal */
   border: none;
   border-radius: 10px;
@@ -149,7 +149,7 @@ a {
 }
 
 .btn:hover {
-  background: rgb(194, 72, 92);
+  background: rgb(195, 112, 67);
 }
 
 /* Links */

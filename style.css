@@ -1,7 +1,8 @@
 body {
   margin: 0;
-  font-family: 'Arial', sans-serif;
-  background: lightpink;
+  /* font-family: 'Arial', sans-serif; */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: rgb(241, 176, 125);
   color: #ffffff;
   display: flex;
   flex-direction: column;
@@ -14,7 +15,7 @@ body {
   width: 65%;
   display: flex;
   gap: 2rem;
-  background: rgb(230, 129, 146);
+  background: rgb(246, 160, 120);
   border-radius: 20px;
   padding: 20px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
@@ -104,7 +105,7 @@ p {
 
 a {
   text-decoration: none;
-  color: rgb(174, 4, 32);
+  color: rgb(209, 93, 4);
   /* Teal */
 }
 
@@ -119,7 +120,7 @@ a {
   padding: 12px 45px;
   border: none;
   border-radius: 10px;
-  background: white;
+  background: rgb(255, 255, 255);
   color: black;
   font-size: 14px;
 }
@@ -136,7 +137,7 @@ a {
 .btn {
   width: 30%;
   padding: 12px;
-  background: rgb(238, 94, 118);
+  background: rgb(245, 146, 84);
   border: none;
   border-radius: 10px;
   color: white;
@@ -145,7 +146,7 @@ a {
 }
 
 .btn:hover {
-  background: rgb(194, 72, 92);
+  background: rgb(195, 112, 67);
 }
 
 /* Links */
