@@ -4,7 +4,7 @@ Absolutely, Ayush! Here's a **professional**, **clean**, and **visually appealin
 
 # 📊 Stock Tracker Dashboard
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-darkorange?style=for-the-badge)](https://ash-dot-coder.github.io/REMCTExpenseTracker/)
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-salmon?style=for-the-badge)](https://ash-dot-coder.github.io/REMCTExpenseTracker/)
 
 Track your daily expenses like a pro! This **Stock Tracker Dashboard** is a lightweight web app built using **HTML**, **CSS**, and **JavaScript**. It enables users to **sign up**, **log in**, and **track expenses** across categories like 🍔 Food, 🚗 Transport, 🎬 Entertainment, and more — all with a simple and responsive interface.
 
