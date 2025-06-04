@@ -1,10 +1,6 @@
-Absolutely, Ayush! Here's a **professional**, **clean**, and **visually appealing** version of your README for the **Stock Tracker Dashboard** (renamed from "Expense Tracker") with emojis, clear headlines, and an `Output Screenshots` section added at the end. Let me know if you'd like me to tailor the language tone even more to match your personality or make a version for LinkedIn post format too.
-
----
-
 # 📊 Stock Tracker Dashboard
 
-[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-coral?style=for-the-badge)](https://ash-dot-coder.github.io/REMCTExpenseTracker/)
+[![🚀 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-coral?style=for-the-badge)](https://retest-expensetracker.netlify.app/)
 
 Track your daily expenses like a pro! This **Stock Tracker Dashboard** is a lightweight web app built using **HTML**, **CSS**, and **JavaScript**. It enables users to **sign up**, **log in**, and **track expenses** across categories like 🍔 Food, 🚗 Transport, 🎬 Entertainment, and more — all with a simple and responsive interface.
 
@@ -82,14 +78,15 @@ REMCTExpenseTracker/
 
 ## 📸 Output Screenshots
 
+![LogIn](./Images/ScreenShot/LogIn.png)
+![SignUp](./Images/ScreenShot/SignUp.png)
+![SignUp-Entry](./Images/ScreenShot/SignUp_Registered.png)
+![LogIn-Entry](./Images/ScreenShot/LogIn_Entry.png)
+![Dashboard](./Images/ScreenShot/Dashboard.png)
+![Demo-Dashboard-1](./Images/ScreenShot/DemoDashboard_1.png)
+![Demo-Dashboard-2](./Images/ScreenShot/DemoDashboard_2.png)
 
 > *Replace placeholder URLs with your actual image links/screenshots hosted on GitHub or ImgBB.*
-
----
-
-## 📄 License
-
-Licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more info.
 
 ---
 
